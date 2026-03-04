@@ -15,14 +15,10 @@ Linux VM - for a safe and resource conserving sandbox to experiment on.
    <li>etc…</li>
 </ul>
 
-<h2>Environments Used </h2>
-
-- <b>XXX</b>
-
-<h2>Project walk-through:</h2>
+<h2>Project Walk-Through:</h2>
 
 <p align="center">
-Step 1: <br/>
+Step 1: Running Maltego on a Linux VM<br/>
 <img src="image" height="80%" width="80%" alt="image description"/>
 <br />
 <br />
