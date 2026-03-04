@@ -20,12 +20,35 @@ Maltego - an OSINT tools that collects and neatly displays the relationship of i
 
 <p align="center">
 Step 1: Running Maltego on a Linux VM<br/>
-<img src="image" height="80%" width="80%" alt="image description"/>
+<img src="images\imagestep1.png" height="80%" width="80%" alt="image description"/>
 <br />
 <br />
-Step 2:  <br/>
-<img src="image" height="80%" width="80%" alt="image description"/>
+Step 2: Entering the website of interest - Hianime (piracy site)<br/>
+<img src="images\imagestep2.png" height="80%" width="80%" alt="image description"/>
 <br />
+<br />
+Step 3: Ran Transform - Domain Name System (DNS) Lookup [DNS]<br/>
+<img src="images\imagestep3.png" height="80%" width="80%" alt="image description"/>
+<br />
+<br />
+Step 4: Ran Transform - To Details [Whois]<br/>
+<img src="images\imagestep4.png" height="80%" width="80%" alt="image description"/>
+<br />
+<br />
+Step 5: Ran Transform - Find in Entity Properties<br/>
+<img src="images\imagestep5.png" height="80%" width="80%" alt="image description"/>
+<br />
+<br />
+Step 6: Observation - Use of Cloudflare (and no other information)<br/>
+<img src="images\imagestep6.png" height="80%" width="80%" alt="image description"/>
+<br />
+<br />
+Step 7: Repeat - Ran the same transforms for 9animetv (another piracy site)<br/>
+<img src="images\imagestep7.png" height="80%" width="80%" alt="image description"/>
+<br />
+<br />
+Step 8: Observation - Use of Cloudflare (and no other information)<br/>
+<img src="images\imagestep8.png" height="80%" width="80%" alt="image description"/>
 <br />
 </p>
 
