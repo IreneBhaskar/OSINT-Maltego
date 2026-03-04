@@ -1,10 +1,7 @@
 <h1>OSINT: Maltego & Movie Piracy Sites</h1>
 
 <h2>Purpose of Project</h2>
-<p>This project aims to investigate how much information can be extracted from a URL. More specifically, if locations or individuals can be identified from pirated video streaming websites.</p>
-
-<br />
-
+<p>This project aims to investigate how much information can be extracted from a URL. More specifically, if Maltego can identify locations or individuals behind pirated video streaming websites.</p>
 
 <h2>Languages and Utilities Used</h2>
 
