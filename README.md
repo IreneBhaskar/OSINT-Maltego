@@ -3,10 +3,19 @@
 <h2>Purpose of Project</h2>
 <p>This project aims to investigate how much information can be extracted from a URL. More specifically, if Maltego can identify locations or individuals behind pirated video streaming websites.</p>
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>XXX</b> 
-- <b>XXX</b>
+<p>
+   <br> Linux VM - for a safe and resource conserving sandbox to experiment on.
+   <br>Maltego - an OSINT tools that collects and neatly displays the relationship of information from public sources, such as: 
+   <br>
+   <ul>
+      <li>social media accounts (reveal names, profile pictures, locations, social connections),</li>
+      <li>WHOIS information (show owner, registrar, creation date, etc…),</li>
+      <li>DNS records & SSL certificates (help to map servers and domains belonging to the same organisation),</li>
+      <li>etc…</li>
+   </ul>
+</p>
 
 <h2>Environments Used </h2>
 
